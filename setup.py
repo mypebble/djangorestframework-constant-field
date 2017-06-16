@@ -19,8 +19,8 @@ setup(
     packages=find_packages(),
     url='https://github.com/mypebble/djangorestframework-constant-field.git',
     install_requires=['django', 'djangorestframework'],
-    setup_required=['pytest-runner'],
-    test_requires=['pytest'],
+    setup_requires=['pytest-runner'],
+    tests_require=['pytest'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Programming Language :: Python',
