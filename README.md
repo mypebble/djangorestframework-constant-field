@@ -54,3 +54,17 @@ class MySerializer(serializers.Serializer):
         """
         return 'My Value'
 ```
+
+## Testing & Contributing
+
+To build and test this package, simply fork this repo and:
+
+```bash
+git clone git@github.com:<yourname>/djangorestframework-constant-field.git
+
+cd djangorestframework-constant-field
+pip install -r requirements.txt
+python setup.py test
+```
+
+The current app is almost completely contained inside `rest_framework_constant`.
