@@ -10,7 +10,7 @@ except IOError:
 
 setup(
     name='djangorestframework-constant-field',
-    version='0.9.0',
+    version='0.9.1',
     description='A simple Constant Field definition for Django REST Framework',
     long_description=LONG_DESCRIPTION,
     author='Scott Walton',
