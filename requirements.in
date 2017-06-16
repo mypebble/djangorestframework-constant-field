@@ -1,0 +1,6 @@
+djangorestframework
+Django
+pip-tools
+wheel
+pytest
+pytest-runner
