@@ -6,7 +6,7 @@
 #
 click==6.7                # via pip-tools
 django==1.11.22
-djangorestframework==3.6.3
+djangorestframework==3.9.1
 first==2.0.1              # via pip-tools
 pip-tools==1.9.0
 py==1.4.34                # via pytest
